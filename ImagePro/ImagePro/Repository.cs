@@ -135,7 +135,17 @@ namespace ImagePro.Data.SQL
 
         public Comment AddComment(Comment comment)
         {
-            throw new NotImplementedException();
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                connection.Open();
+                using (var command = connection.CreateCommand())
+                {
+
+                    throw new NotImplementedException();
+                }
+
+            }
+            
         }
 
         public bool DeletePost(Guid postId)
