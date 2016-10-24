@@ -1,0 +1,18 @@
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.dll
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.pdb
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.dll
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.pdb
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.csprojResolveAssemblyReference.cache
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.dll
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.pdb
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.exe
+D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.pdb
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.dll
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.pdb
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.exe
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.dll
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.pdb
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.pdb
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.csprojResolveAssemblyReference.cache
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.dll
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.pdb

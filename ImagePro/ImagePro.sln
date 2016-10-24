@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePro.Data.SQL", "ImagePro\ImagePro.Data.SQL.csproj", "{44676533-5ACE-436F-9AA9-DFB87004D83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePro.Model", "ImagePro.Model\ImagePro.Model.csproj", "{7CA9792E-F77D-48FE-92C7-E807C2B28C6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{AFDD75C8-FA40-4FAC-8192-5FC2CA170FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePro.Tests", "ImagePro.Tests\ImagePro.Tests.csproj", "{8E5F5462-2D3B-40A6-AA4A-ACD516A0D952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44676533-5ACE-436F-9AA9-DFB87004D83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44676533-5ACE-436F-9AA9-DFB87004D83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44676533-5ACE-436F-9AA9-DFB87004D83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44676533-5ACE-436F-9AA9-DFB87004D83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA9792E-F77D-48FE-92C7-E807C2B28C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA9792E-F77D-48FE-92C7-E807C2B28C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA9792E-F77D-48FE-92C7-E807C2B28C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA9792E-F77D-48FE-92C7-E807C2B28C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5F5462-2D3B-40A6-AA4A-ACD516A0D952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5F5462-2D3B-40A6-AA4A-ACD516A0D952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5F5462-2D3B-40A6-AA4A-ACD516A0D952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5F5462-2D3B-40A6-AA4A-ACD516A0D952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E5F5462-2D3B-40A6-AA4A-ACD516A0D952} = {AFDD75C8-FA40-4FAC-8192-5FC2CA170FC0}
+	EndGlobalSection
+EndGlobal
