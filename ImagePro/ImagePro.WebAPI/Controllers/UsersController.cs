@@ -26,5 +26,18 @@ namespace ImagePro.WebAPI.Controllers
         {
             return _repository.AddUser(user);
         }
+
+        [HttpPost]
+        public Post CreatePost(Post post)
+        {
+            return _repository.AddPost(post);
+        }
+
+        [HttpPost]
+        public Comment CreateComment(Comment comment)
+        {
+            return _repository.AddComment(comment);
+        }
+
     }
 }

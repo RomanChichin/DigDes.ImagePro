@@ -7,12 +7,6 @@ namespace ImagePro.Data.SQL
 {
     public class Repository : IRepository
     {
-
-        public Post GetPost(Guid postId)
-        {
-            throw new NotImplementedException();
-        }
-
         private readonly string _connectionString;
 
         public string Connection   // свойства до или после конструкторов?
@@ -132,6 +126,11 @@ namespace ImagePro.Data.SQL
             }
         }
         #endregion--------------------------------------------------------------------
+
+        public Post GetPost(Guid postId)
+        {
+            throw new NotImplementedException();
+        }
 
         public Comment AddComment(Comment comment)
         {
