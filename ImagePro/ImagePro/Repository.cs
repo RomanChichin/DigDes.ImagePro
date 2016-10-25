@@ -127,7 +127,7 @@ namespace ImagePro.Data.SQL
                                           (UserID, Nickname, RegistrationDate)
                                           VALUES
                                           (@id, @name, @date)";
-                  
+                    throw new NotImplementedException();
                 }
             }
         }
