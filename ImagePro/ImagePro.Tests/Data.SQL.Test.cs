@@ -18,7 +18,7 @@ namespace ImagePro.Tests
 
 
         [TestMethod]
-        public void AddUser_SomeUser_returnUser()     //почему затемнен?
+        public void AddUser_SomeUser_returnUser()
         {
 
             //Arrange
@@ -32,47 +32,102 @@ namespace ImagePro.Tests
             user = repository.AddUser(user);
 
             //Asserts
-
             var resultUser = repository.GetUser(user.UserId);
             Assert.AreEqual(user.Nickname, resultUser.Nickname);
 
 
         }
 
-        [TestMethod]  //надо проверить каскадное удаление
-        public void DeletePost_SomePost_returnTRUE()
+        [TestMethod]
+        public void DeleteUser_SomeUser_returnTRUE()
         {
             //Arrange
-            var post = new Post
+            var user = new User
             {
-                PostId = Guid.NewGuid()
+                Nickname = "Bill"
             };
+            var repository = new Repository(_connection);
+
+            user = repository.AddUser(user);
 
             //Act
-            var repository = new Repository(_connection);
-            bool result = repository.DeletePost(post.PostId);
+            bool result = repository.DeleteUser(user.UserId);
 
             //Asserts
             Assert.IsTrue(result);
-
         }
 
-        [TestMethod]  
-        public void DeletePost_SomeGuid_returnFALSE()
+        [TestMethod]
+        public void DeleteUser_SomeUser_returnFalse()
         {
             //Arrange
-
-            var guid = Guid.NewGuid();
+            var repository = new Repository(_connection);
 
             //Act
-            var repository = new Repository(_connection);
-            bool result = repository.DeletePost(guid);
+            bool result = repository.DeleteUser(Guid.NewGuid());
 
             //Asserts
             Assert.IsFalse(result);
-          
-
         }
+
+        [TestMethod]
+        public void AddComment_SomeComment_Comment()
+        {
+            //Arrange
+            var repository = new Repository(_connection);
+
+            var comment = new Comment()
+            {    
+                PostID = Guid.NewGuid(),
+                UserID = Guid.NewGuid(),
+                Text = "Abra-kadabra"
+            }
+            ;
+
+            //Act
+            comment = repository.AddComment(comment);
+
+            //Asserts
+            var newcomment = repository.GetComment(comment.CommentId);
+            Assert.AreEqual(comment.CommentId,newcomment.CommentId);
+        }
+
+
+
+        //[TestMethod]  //надо проверить каскадное удаление
+        //public void DeletePost_SomePost_returnTRUE()
+        //{
+        //    //Arrange
+        //    var post = new Post
+        //    {
+        //        PostId = Guid.NewGuid()
+        //    };
+
+        //    //Act
+        //    var repository = new Repository(_connection);
+        //    bool result = repository.DeletePost(post.PostId);
+
+        //    //Asserts
+        //    Assert.IsTrue(result);
+
+        //}
+
+        //[TestMethod]
+        //public void DeletePost_SomeGuid_returnFALSE()
+        //{
+        //    //Arrange
+
+        //    var guid = Guid.NewGuid();
+
+        //    //Act
+        //    var repository = new Repository(_connection);
+        //    bool result = repository.DeletePost(guid);
+
+        //    //Asserts
+        //    Assert.IsFalse(result);
+
+
+        //}
 
     }
 }

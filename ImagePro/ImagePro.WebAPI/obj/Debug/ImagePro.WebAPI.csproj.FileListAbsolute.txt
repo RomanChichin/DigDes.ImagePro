@@ -15,3 +15,7 @@ D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\bin\ru\System.Web.Http
 D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\obj\Debug\ImagePro.WebAPI.csprojResolveAssemblyReference.cache
 D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\obj\Debug\ImagePro.WebAPI.dll
 D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\obj\Debug\ImagePro.WebAPI.pdb
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\bin\ImagePro.exe
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\bin\ImagePro.Model.dll
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\bin\ImagePro.pdb
+D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.WebAPI\bin\ImagePro.Model.pdb

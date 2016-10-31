@@ -21,6 +21,13 @@ namespace ImagePro.WebAPI.Controllers
             _repository = new ImagePro.Data.SQL.Repository(_connectionString);
         }
 
+        [HttpGet]
+        public string GetTEst(int id)
+        {
+            return "test";
+        }
+
+
         [HttpPost]
         public User CreateUser(User user)
         {

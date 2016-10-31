@@ -14,7 +14,8 @@ CREATE TABLE Posts
 PostID uniqueidentifier NOT NULL PRIMARY KEY,
 UserID uniqueidentifier NOT NULL FOREIGN KEY REFERENCES Users(UserID),
 Photo varbinary(MAX) NOT NULL,
-DateOfPublication DATETIME NOT NULL
+DateOfPublication DATETIME NOT NULL,
+
 )
 
 CREATE TABLE Comments
