@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7CA9792E-F77D-48FE-92C7-E807C2B28C6A}</ProjectGuid>
+    <ProjectGuid>{92D10F13-6DA5-4640-8464-4A700E59D83E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ImagePro.Model</RootNamespace>

@@ -1,0 +1,7 @@
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.DataSQL.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.DataSQL.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\obj\Debug\ImagePro.DataSQL.csprojResolveAssemblyReference.cache
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\obj\Debug\ImagePro.DataSQL.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\obj\Debug\ImagePro.DataSQL.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.Model.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.Model.pdb

@@ -1,10 +1,5 @@
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Model\bin\Debug\ImagePro.Model.dll
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Model\bin\Debug\ImagePro.Model.pdb
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.csprojResolveAssemblyReference.cache
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.dll
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.pdb
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Model\bin\Debug\ImagePro.Model.dll
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Model\bin\Debug\ImagePro.Model.pdb
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.csprojResolveAssemblyReference.cache
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.dll
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.csprojResolveAssemblyReference.cache
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Model\bin\Debug\ImagePro.Model.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Model\bin\Debug\ImagePro.Model.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Model\obj\Debug\ImagePro.Model.pdb

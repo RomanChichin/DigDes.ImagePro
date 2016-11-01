@@ -1,18 +1,84 @@
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.dll
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.pdb
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.dll
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.pdb
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.csprojResolveAssemblyReference.cache
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.dll
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.pdb
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.exe
-D:\РОМА\DIGITAL DESIGN\ДОМАШНЯЯ РАБОТА\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.pdb
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.dll
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.pdb
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.exe
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.dll
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.pdb
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.pdb
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.csprojResolveAssemblyReference.cache
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.dll
-D:\ROMA\DIGDES\Homework\ImagePro\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.dll.config
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Tests.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Microsoft.Data.Edm.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Microsoft.Data.OData.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Spatial.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Helpers.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.OData.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Mvc.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Razor.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.WebPages.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Optimization.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.Tracing.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Helpers.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Mvc.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Razor.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.WebPages.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.OData.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Microsoft.Data.Edm.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\Microsoft.Data.OData.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Spatial.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\System.Web.Http.Tracing.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Http.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Http.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\de\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\es\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\fr\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\it\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ja\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ko\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ru\System.Web.Http.Tracing.resources.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.csprojResolveAssemblyReference.cache
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\obj\Debug\ImagePro.Tests.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.DataSQL.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.DataSQL.pdb

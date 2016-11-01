@@ -10,21 +10,15 @@ namespace ImagePro.Model
     {
         User AddUser(User user);
         User GetUser(Guid userId);
-        bool DeleteUser(Guid userId);
+        void DeleteUser(Guid userId);
 
         Post AddPost(Post post);
         Post GetPost(Guid postId);
-        bool DeletePost(Guid postId);
+        void DeletePost(Guid postId);
 
+        IEnumerable<Comment> GetAllComments(Guid postID);
+        Comment GetComment(Guid commentID);
         Comment AddComment(Comment comment);
-        bool DeleteComment(Guid commentId);
-
-     
-
-       
-
-      
-
-
+        void DeleteComment(Guid commentId);
     }
 }

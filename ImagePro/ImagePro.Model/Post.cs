@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ImagePro.Model
 {
-   public class Post   //Надо констркутор ?
+   public class Post
     {
         public Guid PostId { get; set; }
         public Guid UserID { get; set; }

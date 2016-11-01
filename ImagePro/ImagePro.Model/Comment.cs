@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ImagePro.Model
 {
-   public class Comment
+    public class Comment
     {
         public Guid CommentId { get; set; }
 
