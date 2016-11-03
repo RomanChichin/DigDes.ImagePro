@@ -13,18 +13,37 @@ namespace ImagePro.Tests
                                        Initial Catalog=DB;
                                        Integrated Security=True";
 
-        string[] names = { "Jo", "Nick", "Sara", "Lulu", "Eva", "Alex", "John" };
-        Random rand = new Random((int)DateTime.Now.Ticks);
+        #region UserTests
 
+        [TestMethod]
+        public void GetUser_FalseGuid_returnException()
+        {
+            //Arrange
+            var repository = new Repository(_connection);
+            bool result;
+
+            //Act
+            try
+            {
+                User returnedUser = repository.GetUser(Guid.NewGuid());
+                result = true;
+            }
+            catch
+            {
+                result = false;
+            }
+
+            //Asserts
+            Assert.IsFalse(result);
+        }
 
         [TestMethod]
         public void AddUser_SomeUser_returnUser()
         {
-
             //Arrange
             var user = new User
             {
-                Nickname = names[rand.Next(0, 5)]
+                Nickname = Guid.NewGuid().ToString().Substring(20)
             };
             var repository = new Repository(_connection);
 
@@ -34,41 +53,100 @@ namespace ImagePro.Tests
             //Asserts
             var resultUser = repository.GetUser(user.UserId);
             Assert.AreEqual(user.Nickname, resultUser.Nickname);
-
-
         }
 
         [TestMethod]
-        public void DeleteUser_SomeUser_returnTRUE()
+        public void AddUser_TwoUsersWithSameNames_returnError()
+        {
+            //Arrange
+            var repository = new Repository(_connection);
+
+            var user1 = new User()
+            {
+                Nickname = Guid.NewGuid().ToString().Substring(20)
+            };
+            var user2 = new User()
+            {
+                Nickname = user1.Nickname
+            };
+
+            bool result;
+
+            //Act
+            repository.AddUser(user1);
+
+            try
+            {
+                repository.AddUser(user2);
+                result = false;
+            }
+            catch
+            {
+                result = true;
+            }
+
+            //Asserts
+            Assert.IsTrue(result);
+        }
+
+        [TestMethod]
+        public void DeleteUser_SomeUser_OK()
         {
             //Arrange
             var user = new User
             {
-                Nickname = "Bill"
+                Nickname = Guid.NewGuid().ToString().Substring(20)
             };
             var repository = new Repository(_connection);
 
+            bool result;
+
+            //Act
             user = repository.AddUser(user);
 
-            //Act
-         //   bool result = repository.DeleteUser(user.UserId);
+            try
+            {
+                repository.DeleteUser(user.UserId);
+                repository.GetUser(user.UserId);
+                result = false;
+            }
+            catch
+            {
+                result = true;
+            }
 
             //Asserts
-           // Assert.IsTrue(result);
+            Assert.IsTrue(result);
         }
 
-        [TestMethod]
-        public void DeleteUser_SomeUser_returnFalse()
-        {
-            //Arrange
-            var repository = new Repository(_connection);
+        //[TestMethod]    Как?
+        //public void DeleteUser_SomeUser_returnException()
+        //{
+        //    //Arrange
+        //    var repository = new Repository(_connection);
 
-            //Act
-         //   bool result = repository.DeleteUser(Guid.NewGuid());
+        //    Guid id = Guid.NewGuid();
 
-            //Asserts
-         //   Assert.IsFalse(result);
-        }
+        //    bool result;
+
+        //    //Act
+        //    try
+        //    {
+        //        repository.DeleteUser(id);
+        //        repository.GetUser(id);
+        //        result = true;
+        //    }
+        //    catch
+        //    {
+        //        result = false;
+        //    }
+
+        //    //Asserts
+        //    Assert.IsFalse(result);
+        //}
+
+        #endregion
+
 
         [TestMethod]
         public void AddComment_SomeComment_Comment()

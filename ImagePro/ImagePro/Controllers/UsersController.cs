@@ -2,6 +2,7 @@
 using System.Web.Http;
 using ImagePro.Model;
 using ImagePro.DataSQL;
+using System.Net;
 
 namespace ImagePro.Controllers
 {
@@ -28,16 +29,16 @@ namespace ImagePro.Controllers
         //    };
         //}
 
-//        private const string _connectionString = @"Data Source=(local)\SQLEXPRESS;
-//                                                   Initial Catalog=DB;
-//                                                   Integrated Security=True";
+        //        private const string _connectionString = @"Data Source=(local)\SQLEXPRESS;
+        //                                                   Initial Catalog=DB;
+        //                                                   Integrated Security=True";
 
-//        private readonly IRepository _repository;
+        //        private readonly IRepository _repository;
 
-//        public UsersController()
-//        {
-//            _repository = new ImagePro.DataSQL.Repository(_connectionString);
-//        }
+        //        public UsersController()
+        //        {
+        //            _repository = new ImagePro.DataSQL.Repository(_connectionString);
+        //        }
 
         static readonly IRepository _repository = new Repository(@"Data Source=(local)\SQLEXPRESS;
                                                                  Initial Catalog=DB;
@@ -46,13 +47,39 @@ namespace ImagePro.Controllers
         [HttpGet]
         public User GetUser(Guid userID)
         {
-            return _repository.GetUser(userID);
+
+            if (userID == null) //для чего тогда вообще эта проверка?
+            {
+                throw new HttpResponseException(HttpStatusCode.NotFound);
+            }
+            else
+            {
+                try
+                {
+                    return _repository.GetUser(userID);
+                }
+                catch
+                {
+                    throw new HttpResponseException(HttpStatusCode.NotFound); //почему ничего не выскакивает?
+                }
+            }
+
+
         }
 
         [HttpPost]
         public User AddUser(User user)
         {
-            return _repository.AddUser(user);
+            try
+            {
+                return _repository.AddUser(user);
+            }
+            catch
+            {
+              //что тут можно бросить?
+                throw new NotImplementedException();
+            }
+
         }
 
         [HttpDelete]

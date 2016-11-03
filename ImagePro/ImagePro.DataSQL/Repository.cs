@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using ImagePro.Model;
-using  System.Data.SqlClient;
+using System.Data.SqlClient;
 
 namespace ImagePro.DataSQL
 {
@@ -64,14 +64,9 @@ namespace ImagePro.DataSQL
                     command.Parameters.AddWithValue("@id", user.UserId);
                     command.Parameters.AddWithValue("@name", user.Nickname);
                     command.Parameters.AddWithValue("@date", DateTime.Now.Date);
-                    try
-                    {
-                        command.ExecuteNonQuery();
-                    }
-                    catch //Это ли исклчение надо ловить?
-                    {
-                        Console.WriteLine("Пользователь с таким именем уже существует");
-                    }
+
+                    command.ExecuteNonQuery();
+
                     return user;
                 }
             }
@@ -98,26 +93,15 @@ namespace ImagePro.DataSQL
                                             WHERE UserID = @ID";
                     command.Parameters.AddWithValue("@ID", id);
 
-                    try
+                    using (var reader = command.ExecuteReader())
                     {
-                        using (var reader = command.ExecuteReader())
-                        {
-                            reader.Read();
+                        reader.Read();
 
-                            return new User
-                            {
-                                UserId = reader.GetGuid(0),
-                                Nickname = reader.GetString(1),
-                                RegistrationDate = reader.GetDateTime(2)
-                            };
-                        }
-                    }
-                    catch // какой эксепшн?
-                    {
-                        Console.WriteLine("Такого пользователя не существует");
                         return new User
                         {
-                            Nickname = "Не существует"
+                            UserId = reader.GetGuid(0),
+                            Nickname = reader.GetString(1),
+                            RegistrationDate = reader.GetDateTime(2)
                         };
                     }
 
@@ -310,27 +294,27 @@ namespace ImagePro.DataSQL
             {
                 connection.Open();
 
-//                using (var command = connection.CreateCommand())
-//                {
-//                    command.CommandText = @"SELECT * FROM Comments
-//                                            WHERE CommentID = @ID";
-//                    command.Parameters.AddWithValue("@ID", id);
+                //                using (var command = connection.CreateCommand())
+                //                {
+                //                    command.CommandText = @"SELECT * FROM Comments
+                //                                            WHERE CommentID = @ID";
+                //                    command.Parameters.AddWithValue("@ID", id);
 
-//                    using (var reader = command.ExecuteReader())
-//                    {
-//                        reader.Read();
+                //                    using (var reader = command.ExecuteReader())
+                //                    {
+                //                        reader.Read();
 
-//                        return new Comment()
-//                        {
-//                            CommentId = reader.GetGuid(0),
-//                            PostID = reader.GetGuid(1),
-//                            UserID = reader.GetGuid(2),
-//                            DateOfPublication = reader.GetDateTime(3),
-//                            Text = reader.GetString(4)
-//                        };
-//                    }
-//                }
-                throw  new NotImplementedException();
+                //                        return new Comment()
+                //                        {
+                //                            CommentId = reader.GetGuid(0),
+                //                            PostID = reader.GetGuid(1),
+                //                            UserID = reader.GetGuid(2),
+                //                            DateOfPublication = reader.GetDateTime(3),
+                //                            Text = reader.GetString(4)
+                //                        };
+                //                    }
+                //                }
+                throw new NotImplementedException();
 
             }
         }
