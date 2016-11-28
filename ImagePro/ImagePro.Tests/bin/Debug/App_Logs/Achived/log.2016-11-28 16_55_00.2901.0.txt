@@ -1,0 +1,13 @@
+2016-11-28 16:50:36.0269|Debug|Recieved a request to ADD new user
+2016-11-28 16:50:36.8815|Debug|Operation completed, time: 600 misec
+2016-11-28 16:50:36.8815|Info|New user was added | ID=b568d16d-22de-4c0d-a86f-015ece2c4197 | Nickname=a19-a0a42fddd475
+2016-11-28 16:50:36.8815|Debug|Recieved a request to ADD new user
+2016-11-28 16:50:36.8975|Debug|Operation completed, time: 6 misec
+2016-11-28 16:50:36.8975|Info|New user was added | ID=661158fb-6daf-45de-ab14-8ac98f6f1425 | Nickname=062-2c479e798882
+2016-11-28 16:50:37.2007|Debug|Recieved a request to ADD new post
+2016-11-28 16:50:37.5079|Debug|Operation completed, time: 305 misec
+2016-11-28 16:50:37.5079|Info|Post was added | postID=cdffb439-5c84-4cae-84c1-d152e092d0b1 | userID = 661158fb-6daf-45de-ab14-8ac98f6f1425
+2016-11-28 16:50:37.5189|Debug|Recieved a request to ADD new comment
+2016-11-28 16:50:37.5189|Debug|Operation completed, time: 5 misec
+2016-11-28 16:50:37.5189|Info|New comment was added | commentID=41755147-b64b-4067-b700-8a93187383c7 | postID=cdffb439-5c84-4cae-84c1-d152e092d0b1 | userID=b568d16d-22de-4c0d-a86f-015ece2c4197
+2016-11-28 16:50:37.5329|Debug|Recieved a request to DELETE user with ID=41755147-b64b-4067-b700-8a93187383c7

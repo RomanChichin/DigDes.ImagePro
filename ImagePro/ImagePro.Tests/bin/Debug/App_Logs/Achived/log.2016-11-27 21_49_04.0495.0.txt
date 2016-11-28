@@ -1,0 +1,9 @@
+2016-11-27 21:48:23.6457|Debug|Recieved a request to ADD new user
+2016-11-27 21:48:24.5884|Debug|Operation completed, time: 641 misec
+2016-11-27 21:48:24.5884|Info|New user was added | ID=ed7728d1-e593-4f7e-a723-073a10fd3315 | Nickname=4c1-79f15b8c804c
+2016-11-27 21:48:24.6004|Debug|Recieved a request to EDIT user information with ID=ed7728d1-e593-4f7e-a723-073a10fd3315
+2016-11-27 21:48:24.7946|Debug|Operation completed, time: 192 misec
+2016-11-27 21:48:24.7946|Info|User information was updated | userID=ed7728d1-e593-4f7e-a723-073a10fd3315
+2016-11-27 21:48:24.8056|Debug|Recieved a request to GET user with ID=ed7728d1-e593-4f7e-a723-073a10fd3315
+2016-11-27 21:48:24.9227|Debug|Operation completed, time: 116 misec
+2016-11-27 21:48:24.9257|Info|Information about user sent | userID=ed7728d1-e593-4f7e-a723-073a10fd3315

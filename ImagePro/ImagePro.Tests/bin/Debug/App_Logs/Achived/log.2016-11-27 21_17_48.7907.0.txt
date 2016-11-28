@@ -1,0 +1,6 @@
+2016-11-27 20:36:20.4697|Debug|Recieved a request to ADD new user
+2016-11-27 20:36:21.5334|Debug|Operation completed, time: 760 misec
+2016-11-27 20:36:21.5334|Info|New user was added | ID=ad6e605a-0a0d-44a2-97fe-98b9b875af19 | Nickname=228-f3c2ddcc1946
+2016-11-27 20:36:21.5334|Debug|Recieved a request to GET user with ID=ad6e605a-0a0d-44a2-97fe-98b9b875af19
+2016-11-27 20:36:21.8486|Debug|Operation completed, time: 299 misec
+2016-11-27 20:36:21.8486|Info|Information about user sent | userID=ad6e605a-0a0d-44a2-97fe-98b9b875af19

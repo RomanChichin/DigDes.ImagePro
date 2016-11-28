@@ -1,0 +1,9 @@
+2016-11-28 19:42:07.6901|Debug|Recieved a request to ADD new user
+2016-11-28 19:42:08.5227|Debug|Operation completed, time: 584 misec
+2016-11-28 19:42:08.5227|Info|New user was added | ID=70a0c38f-e472-4169-9009-5183a639fa65 | Nickname=4be-08785039a1c9
+2016-11-28 19:42:08.9510|Debug|Recieved a request to ADD new post
+2016-11-28 19:42:10.6922|Debug|Operation completed, time: 1740 misec
+2016-11-28 19:42:10.6922|Info|Post was added | postID=bf8b325c-26bf-43bc-83fa-5c62daa4070b | userID = 70a0c38f-e472-4169-9009-5183a639fa65
+2016-11-28 19:42:10.6922|Debug|Recieved a request to ADD new hashtag to post
+2016-11-28 19:42:10.8933|Debug|Operation completed, time: 189 misec
+2016-11-28 19:42:10.8933|Info|Hashtag was added | postID=bf8b325c-26bf-43bc-83fa-5c62daa4070b | hashtagText=857-4f05b63a174b

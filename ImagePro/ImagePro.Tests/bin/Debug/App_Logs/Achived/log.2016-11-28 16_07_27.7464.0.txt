@@ -1,0 +1,99 @@
+2016-11-28 15:55:56.3410|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.1646|Debug|Operation completed, time: 563 misec
+2016-11-28 15:55:57.1646|Info|New user was added | ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e | Nickname=825-1e933daf03c3
+2016-11-28 15:55:57.1646|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.1786|Debug|Operation completed, time: 6 misec
+2016-11-28 15:55:57.1786|Info|New user was added | ID=46cc3d91-a921-4531-abfb-35b19d32fe45 | Nickname=c48-60a2e3d42fc3
+2016-11-28 15:55:57.1786|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3647|Debug|Operation completed, time: 175 misec
+2016-11-28 15:55:57.3647|Info|User subscribe | subscriberIdID=46cc3d91-a921-4531-abfb-35b19d32fe45 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3647|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.3647|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.3647|Info|New user was added | ID=2ecdce09-f4fd-40a5-b3c0-f98b559849d9 | Nickname=f13-a8bcf3eef75a
+2016-11-28 15:55:57.3647|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3787|Debug|Operation completed, time: 4 misec
+2016-11-28 15:55:57.3787|Info|User subscribe | subscriberIdID=2ecdce09-f4fd-40a5-b3c0-f98b559849d9 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3787|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.3787|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.3787|Info|New user was added | ID=068a3916-1f4f-4308-b809-bddd1d468bc1 | Nickname=d35-7c0e7a07f8f3
+2016-11-28 15:55:57.3787|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3787|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.3917|Info|User subscribe | subscriberIdID=068a3916-1f4f-4308-b809-bddd1d468bc1 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3917|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.3917|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.3917|Info|New user was added | ID=adb47800-8594-4588-8d39-4aa7ab88b1c2 | Nickname=f43-ab0691852e9f
+2016-11-28 15:55:57.3917|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3917|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.3917|Info|User subscribe | subscriberIdID=adb47800-8594-4588-8d39-4aa7ab88b1c2 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.3917|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.4077|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.4077|Info|New user was added | ID=4a1e8d11-e30a-4cef-b0db-1151f734b817 | Nickname=371-9572e417ca9e
+2016-11-28 15:55:57.4077|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4077|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.4077|Info|User subscribe | subscriberIdID=4a1e8d11-e30a-4cef-b0db-1151f734b817 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4077|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.4077|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.4077|Info|New user was added | ID=ec34ec5d-ccc7-4432-a351-577c56a96255 | Nickname=e55-4cc76c64a34e
+2016-11-28 15:55:57.4077|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4277|Debug|Operation completed, time: 3 misec
+2016-11-28 15:55:57.4277|Info|User subscribe | subscriberIdID=ec34ec5d-ccc7-4432-a351-577c56a96255 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4277|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.4578|Debug|Operation completed, time: 26 misec
+2016-11-28 15:55:57.4578|Info|New user was added | ID=b6885ab0-b483-4924-bdcb-c834cd75b915 | Nickname=c1f-cb99362a76de
+2016-11-28 15:55:57.4578|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4578|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.4578|Info|User subscribe | subscriberIdID=b6885ab0-b483-4924-bdcb-c834cd75b915 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4578|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.4698|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.4698|Info|New user was added | ID=4056c660-81c9-4ad3-aae9-7b2fd507ae08 | Nickname=b34-ae7b661e53ea
+2016-11-28 15:55:57.4698|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4698|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.4698|Info|User subscribe | subscriberIdID=4056c660-81c9-4ad3-aae9-7b2fd507ae08 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4698|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.4698|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.4698|Info|New user was added | ID=38012d9b-6183-4b0d-869f-50fb9ef924bd | Nickname=330-90d14de3638c
+2016-11-28 15:55:57.4698|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4868|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.4868|Info|User subscribe | subscriberIdID=38012d9b-6183-4b0d-869f-50fb9ef924bd | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4868|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.4868|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.4868|Info|New user was added | ID=4e3412fe-297e-4f73-af2e-50add23444b1 | Nickname=933-cc7b006cc47a
+2016-11-28 15:55:57.4868|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4868|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.4868|Info|User subscribe | subscriberIdID=4e3412fe-297e-4f73-af2e-50add23444b1 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.4868|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.5028|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.5028|Info|New user was added | ID=a4deb923-b6df-4f4b-8be5-ce7985e133e0 | Nickname=fd9-6649c5fbd864
+2016-11-28 15:55:57.5028|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5028|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.5028|Info|User subscribe | subscriberIdID=a4deb923-b6df-4f4b-8be5-ce7985e133e0 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5028|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.5028|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.5028|Info|New user was added | ID=0e37c806-f083-4ca7-b36a-aa6b51d73b37 | Nickname=498-2c7f2fa55316
+2016-11-28 15:55:57.5028|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5188|Debug|Operation completed, time: 3 misec
+2016-11-28 15:55:57.5188|Info|User subscribe | subscriberIdID=0e37c806-f083-4ca7-b36a-aa6b51d73b37 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5188|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.5188|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.5188|Info|New user was added | ID=2ffa8809-19f6-456c-9801-f600e7963ed3 | Nickname=881-6a1f59b199e1
+2016-11-28 15:55:57.5188|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5698|Debug|Operation completed, time: 4 misec
+2016-11-28 15:55:57.5698|Info|User subscribe | subscriberIdID=2ffa8809-19f6-456c-9801-f600e7963ed3 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5698|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.5698|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.5698|Info|New user was added | ID=e5411de0-1bc1-4dbd-a5e1-a822513ddc7b | Nickname=7e6-f7ab6fc28fa3
+2016-11-28 15:55:57.5698|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5889|Debug|Operation completed, time: 9 misec
+2016-11-28 15:55:57.5889|Info|User subscribe | subscriberIdID=e5411de0-1bc1-4dbd-a5e1-a822513ddc7b | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5889|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.5949|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.5949|Info|New user was added | ID=9060c49a-8d24-4e74-96f5-894bddacc877 | Nickname=002-8048c2917b0e
+2016-11-28 15:55:57.5949|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5949|Debug|Operation completed, time: 2 misec
+2016-11-28 15:55:57.5949|Info|User subscribe | subscriberIdID=9060c49a-8d24-4e74-96f5-894bddacc877 | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.5949|Debug|Recieved a request to ADD new user
+2016-11-28 15:55:57.5949|Debug|Operation completed, time: 1 misec
+2016-11-28 15:55:57.5949|Info|New user was added | ID=611d8f74-7b13-4e4a-9145-210f1b156e3a | Nickname=f33-ed93a0984db7
+2016-11-28 15:55:57.5949|Debug|Recieved a request to SUBSCRIBE to user with ID=fc48264b-9bb4-41f9-a5a5-9b11041f125e
+2016-11-28 15:55:57.6139|Debug|Operation completed, time: 3 misec
+2016-11-28 15:55:57.6139|Info|User subscribe | subscriberIdID=611d8f74-7b13-4e4a-9145-210f1b156e3a | publisherId=fc48264b-9bb4-41f9-a5a5-9b11041f125e

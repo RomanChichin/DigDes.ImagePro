@@ -1,0 +1,4 @@
+2016-11-27 21:19:39.9787|Debug|Recieved a request to ADD new user
+2016-11-27 21:19:41.0755|Debug|Operation completed, time: 786 misec
+2016-11-27 21:19:41.0875|Info|New user was added | ID=b2e67f5f-d9ba-444e-8239-0b6814801220 | Nickname=d8e-6e773d9df159
+2016-11-27 21:19:41.1526|Debug|Recieved a request to ADD new user

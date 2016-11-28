@@ -1,0 +1,18 @@
+2016-11-28 18:12:09.1323|Debug|Recieved a request to ADD new user
+2016-11-28 18:12:10.0169|Debug|Operation completed, time: 626 misec
+2016-11-28 18:12:10.0169|Info|New user was added | ID=9f1e042b-bf2f-4b3b-ac18-70c4d65028d2 | Nickname=d4a-951d86e3ef77
+2016-11-28 18:12:10.0169|Debug|Recieved a request to ADD new user
+2016-11-28 18:12:10.0169|Debug|Operation completed, time: 5 misec
+2016-11-28 18:12:10.0169|Info|New user was added | ID=d61c7443-7443-4e31-a784-84dc918bb802 | Nickname=12f-063d008131c0
+2016-11-28 18:12:10.2601|Debug|Recieved a request to ADD new post
+2016-11-28 18:12:10.8525|Debug|Operation completed, time: 591 misec
+2016-11-28 18:12:10.8525|Info|Post was added | postID=9b1fdc7a-760d-4260-bdb5-8906bfeeed25 | userID = d61c7443-7443-4e31-a784-84dc918bb802
+2016-11-28 18:12:10.8625|Debug|Recieved a request to ADD new comment
+2016-11-28 18:12:11.1137|Debug|Operation completed, time: 249 misec
+2016-11-28 18:12:11.1137|Info|New comment was added | commentID=09930b02-75c6-4e9b-995b-e695de275c0b | postID=9b1fdc7a-760d-4260-bdb5-8906bfeeed25 | userID=9f1e042b-bf2f-4b3b-ac18-70c4d65028d2
+2016-11-28 18:12:11.1137|Debug|Recieved a request to EDIT comment with ID=09930b02-75c6-4e9b-995b-e695de275c0b
+2016-11-28 18:12:11.4189|Debug|Operation completed, time: 295 misec
+2016-11-28 18:12:11.4189|Info|Comment was updated | commentID=09930b02-75c6-4e9b-995b-e695de275c0b
+2016-11-28 18:12:11.4279|Debug|Recieved a request to GET comment with ID=09930b02-75c6-4e9b-995b-e695de275c0b
+2016-11-28 18:12:11.5300|Debug|Operation completed, time: 100 misec
+2016-11-28 18:12:11.5300|Info|Information about comment sent | commentID=09930b02-75c6-4e9b-995b-e695de275c0b

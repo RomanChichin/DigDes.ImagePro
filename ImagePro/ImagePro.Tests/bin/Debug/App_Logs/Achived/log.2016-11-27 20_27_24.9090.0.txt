@@ -1,0 +1,6 @@
+2016-11-27 20:26:33.8156|Debug|Recieved a request to ADD new user
+2016-11-27 20:26:33.9337|Debug|Operation completed, time: 3 misec
+2016-11-27 20:26:33.9387|Info|New user was added | ID=d2e41130-158a-407b-84d0-ae4d693f1584 | Nickname=4c5-a7df6cff16fe
+2016-11-27 20:26:33.9387|Debug|Recieved a request to GET user with ID=d2e41130-158a-407b-84d0-ae4d693f1584
+2016-11-27 20:26:33.9387|Debug|Operation completed, time: 2 misec
+2016-11-27 20:26:33.9387|Info|Information about user sent | userID=d2e41130-158a-407b-84d0-ae4d693f1584

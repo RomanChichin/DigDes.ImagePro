@@ -1,0 +1,7 @@
+2016-11-28 15:35:36.6261|Debug|Recieved a request to ADD new user
+2016-11-28 15:35:37.4397|Debug|Operation completed, time: 549 misec
+2016-11-28 15:35:37.4397|Info|New user was added | ID=aef62170-f996-40b2-9ba0-0d8b6d4ba0b8 | Nickname=51e-336a19e1a9c9
+2016-11-28 15:35:37.4397|Debug|Recieved a request to ADD new user
+2016-11-28 15:35:37.4397|Debug|Operation completed, time: 6 misec
+2016-11-28 15:35:37.4547|Info|New user was added | ID=01269de6-34d9-4440-b538-5f9be9d53d69 | Nickname=5b5-cd13bc2f6c0f
+2016-11-28 15:35:37.5137|Debug|Recieved a request to UNSUBSCRIBE from user with ID=01269de6-34d9-4440-b538-5f9be9d53d69

@@ -1,0 +1,6 @@
+2016-11-27 00:41:29.2377|Debug|Recieved a request to ADD new user
+2016-11-27 00:41:29.4759|Debug|Operation completed, time: 156 misec
+2016-11-27 00:41:29.4759|Info|New user was added | ID=6592183f-cab4-4c26-8324-33d83e414af1 | Nickname=5cb-e2a7e0f65d04
+2016-11-27 00:41:29.4759|Debug|Recieved a request to GET user with ID=6592183f-cab4-4c26-8324-33d83e414af1
+2016-11-27 00:41:29.5479|Debug|Operation completed, time: 66 misec
+2016-11-27 00:41:29.5479|Info|Information about user sent | userID=6592183f-cab4-4c26-8324-33d83e414af1

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePro.Model", "ImagePro.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePro.DataSQL", "ImagePro.DataSQL\ImagePro.DataSQL.csproj", "{AC909BC7-FA26-4F75-91BC-39BAC6E45F7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePro.Exeptions", "ImagePro.Exeptions\ImagePro.Exeptions.csproj", "{30AAE22B-6367-4544-B0E5-06D6DAE1A66E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TESTS", "TESTS", "{232D2E91-33A9-47AE-95C8-27F1DF72B569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +37,15 @@ Global
 		{AC909BC7-FA26-4F75-91BC-39BAC6E45F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC909BC7-FA26-4F75-91BC-39BAC6E45F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC909BC7-FA26-4F75-91BC-39BAC6E45F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AAE22B-6367-4544-B0E5-06D6DAE1A66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AAE22B-6367-4544-B0E5-06D6DAE1A66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AAE22B-6367-4544-B0E5-06D6DAE1A66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AAE22B-6367-4544-B0E5-06D6DAE1A66E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E2AB8E2-CC90-4B3B-9F3A-C917FE394828} = {232D2E91-33A9-47AE-95C8-27F1DF72B569}
 	EndGlobalSection
 EndGlobal

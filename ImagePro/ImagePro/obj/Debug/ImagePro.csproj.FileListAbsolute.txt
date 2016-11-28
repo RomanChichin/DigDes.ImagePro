@@ -24,7 +24,6 @@ D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\System.Web.WebPages.dl
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\System.Web.WebPages.Razor.dll
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\WebGrease.dll
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\EntityFramework.xml
-D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\Newtonsoft.Json.xml
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\System.Net.Http.Formatting.xml
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\System.Web.Helpers.xml
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\System.Web.Http.xml
@@ -87,3 +86,8 @@ D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\ImagePro.DataSQL.dll
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\ImagePro.Model.dll
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\ImagePro.DataSQL.pdb
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\ImagePro.Model.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\NLog.config
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\NLog.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\NLog.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\ImagePro.Exeptions.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro\bin\ImagePro.Exeptions.pdb

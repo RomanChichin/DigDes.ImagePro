@@ -1,0 +1,6 @@
+2016-11-27 21:17:48.7907|Debug|Recieved a request to ADD new user
+2016-11-27 21:17:49.7154|Debug|Operation completed, time: 650 misec
+2016-11-27 21:17:49.7204|Info|New user was added | ID=a476e05a-c0bd-49bd-bcd2-e476a2e0f0dc | Nickname=2d7-c964af6b9b00
+2016-11-27 21:17:49.7204|Debug|Recieved a request to GET user with ID=a476e05a-c0bd-49bd-bcd2-e476a2e0f0dc
+2016-11-27 21:17:50.0246|Debug|Operation completed, time: 293 misec
+2016-11-27 21:17:50.0246|Info|Information about user sent | userID=a476e05a-c0bd-49bd-bcd2-e476a2e0f0dc

@@ -1,0 +1,6 @@
+2016-11-27 20:11:01.9744|Debug|Recieved a request to ADD new user
+2016-11-27 20:11:02.0524|Debug|Operation completed, time: 3 misec
+2016-11-27 20:11:02.0524|Info|New user was added | ID=daac4a7e-3e38-4f2b-9dcd-013e9219a2e3 | Nickname=120-99e97f0d0902
+2016-11-27 20:11:02.0524|Debug|Recieved a request to GET user with ID=daac4a7e-3e38-4f2b-9dcd-013e9219a2e3
+2016-11-27 20:11:02.0634|Debug|Operation completed, time: 2 misec
+2016-11-27 20:11:02.0634|Info|Information about user sent | userID=daac4a7e-3e38-4f2b-9dcd-013e9219a2e3

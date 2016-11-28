@@ -1,0 +1,9 @@
+2016-11-27 21:49:04.0495|Debug|Recieved a request to ADD new user
+2016-11-27 21:49:05.0522|Debug|Operation completed, time: 716 misec
+2016-11-27 21:49:05.0522|Info|New user was added | ID=97ca3015-cfe5-4dab-a2a6-646d6ebb7928 | Nickname=d3e-be5a6eb81242
+2016-11-27 21:49:05.0692|Debug|Recieved a request to EDIT user information with ID=97ca3015-cfe5-4dab-a2a6-646d6ebb7928
+2016-11-27 21:49:05.3854|Debug|Operation completed, time: 313 misec
+2016-11-27 21:49:05.3854|Info|User information was updated | userID=97ca3015-cfe5-4dab-a2a6-646d6ebb7928
+2016-11-27 21:49:05.4014|Debug|Recieved a request to GET user with ID=97ca3015-cfe5-4dab-a2a6-646d6ebb7928
+2016-11-27 21:49:05.5465|Debug|Operation completed, time: 141 misec
+2016-11-27 21:49:05.5495|Info|Information about user sent | userID=97ca3015-cfe5-4dab-a2a6-646d6ebb7928

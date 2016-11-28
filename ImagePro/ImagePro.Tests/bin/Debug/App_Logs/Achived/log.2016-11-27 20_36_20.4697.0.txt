@@ -1,0 +1,6 @@
+2016-11-27 20:35:58.1938|Debug|Recieved a request to ADD new user
+2016-11-27 20:35:59.1785|Debug|Operation completed, time: 699 misec
+2016-11-27 20:35:59.1785|Info|New user was added | ID=85505f51-3dff-4b17-b96c-e65e3a01d008 | Nickname=a46-973e76e0f244
+2016-11-27 20:35:59.1945|Debug|Recieved a request to GET user with ID=85505f51-3dff-4b17-b96c-e65e3a01d008
+2016-11-27 20:35:59.5388|Debug|Operation completed, time: 342 misec
+2016-11-27 20:35:59.5388|Info|Information about user sent | userID=85505f51-3dff-4b17-b96c-e65e3a01d008

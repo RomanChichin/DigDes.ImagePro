@@ -1,0 +1,12 @@
+2016-11-27 20:10:37.3949|Debug|Recieved a request to ADD new user
+2016-11-27 20:10:37.9093|Debug|Operation completed, time: 430 misec
+2016-11-27 20:10:37.9093|Info|New user was added | ID=a2d393c7-0ac2-4e12-a387-c18f57e70601 | Nickname=827-d57c6d2e1a27
+2016-11-27 20:10:37.9093|Debug|Recieved a request to GET user with ID=a2d393c7-0ac2-4e12-a387-c18f57e70601
+2016-11-27 20:10:37.9873|Debug|Operation completed, time: 71 misec
+2016-11-27 20:10:37.9873|Info|Information about user sent | userID=a2d393c7-0ac2-4e12-a387-c18f57e70601
+2016-11-27 20:10:55.2156|Debug|Recieved a request to ADD new user
+2016-11-27 20:10:55.2706|Debug|Operation completed, time: 3 misec
+2016-11-27 20:10:55.2706|Info|New user was added | ID=3c58ca28-a601-4cec-bdba-4da89d526d57 | Nickname=7e2-5adbe910ad7e
+2016-11-27 20:10:55.2706|Debug|Recieved a request to GET user with ID=3c58ca28-a601-4cec-bdba-4da89d526d57
+2016-11-27 20:10:55.2826|Debug|Operation completed, time: 2 misec
+2016-11-27 20:10:55.2826|Info|Information about user sent | userID=3c58ca28-a601-4cec-bdba-4da89d526d57

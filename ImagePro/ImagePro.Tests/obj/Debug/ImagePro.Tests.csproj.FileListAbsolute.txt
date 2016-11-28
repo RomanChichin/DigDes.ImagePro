@@ -82,3 +82,10 @@ D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.M
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Model.pdb
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.DataSQL.dll
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.DataSQL.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\NLog.config
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\NLog.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\NLog.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Exeptions.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\ImagePro.Exeptions.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\nunit.framework.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Tests\bin\Debug\nunit.framework.xml

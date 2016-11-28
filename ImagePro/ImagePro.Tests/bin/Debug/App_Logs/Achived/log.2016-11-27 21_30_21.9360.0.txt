@@ -1,0 +1,10 @@
+2016-11-27 21:22:03.2886|Debug|Recieved a request to ADD new user
+2016-11-27 21:22:04.2062|Debug|Operation completed, time: 642 misec
+2016-11-27 21:22:04.2062|Info|New user was added | ID=c0a144b4-80df-47db-b55a-2bdadcffa929 | Nickname=e2b-c0e6bd5b436b
+2016-11-27 21:22:04.2232|Debug|Recieved a request to GET user with ID=c0a144b4-80df-47db-b55a-2bdadcffa929
+2016-11-27 21:22:04.5184|Debug|Operation completed, time: 292 misec
+2016-11-27 21:22:04.5184|Info|Information about user sent | userID=c0a144b4-80df-47db-b55a-2bdadcffa929
+2016-11-27 21:22:04.6565|Debug|Recieved a request to ADD new user
+2016-11-27 21:22:04.6876|Debug|Operation completed, time: 27 misec
+2016-11-27 21:22:04.6886|Info|New user was added | ID=1eb05f17-952c-438c-90fd-b634add5f4f2 | Nickname=591-ecf9ca84e3f8
+2016-11-27 21:22:04.7546|Debug|Recieved a request to ADD new user

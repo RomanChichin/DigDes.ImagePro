@@ -1,0 +1,1 @@
+2016-11-27 21:30:21.9360|Debug|Recieved a request to DELETE user with ID=4a15b978-62bc-450b-a91e-50c10ebc27c7

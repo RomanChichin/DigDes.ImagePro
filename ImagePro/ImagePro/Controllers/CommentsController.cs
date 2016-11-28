@@ -14,30 +14,39 @@ namespace ImagePro.Controllers
                                                                  Integrated Security=True");
 
         [HttpGet]
-        public Comment GetComment(Guid commentID)
+        //  [Route("api/Comments/{id}")]
+        public Comment GetComment(Guid commentId)
         {
-            return _repository.GetComment(commentID);
+            return _repository.GetCommentById(commentId);
         }
 
-        //[HttpGet]
-        //public IEnumerable<Comment> GetAllComments(Guid postID)
-        //{
-        //    return _repository.GetAllComments(postID);
-        //}
-
+        [HttpGet]
+        //  [Route("api/Comments/postcomments/{id}")]
+        public IEnumerable<Comment> GetAllPostComments(Guid postId)
+        {
+            return _repository.GetPostComments(postId);
+        }
 
         [HttpPost]
+        //  [Route("api/Comments/comment")]
         public Comment AddComment(Comment comment)
         {
-            return _repository.AddComment(comment);
+            return _repository.AddNewComment(comment);
+        }
+
+        [HttpPut]
+        //[Route("api/Comments/comment")]
+        public void EditComment(Comment comment)
+        {
+            _repository.EditComment(comment);
         }
 
         [HttpDelete]
-        public void DeleteComment(Guid commentID)
+        //  [Route("api/Comments/{id}")]
+        public void DeleteComment(Guid commentId)
         {
-            _repository.DeleteComment(commentID);
+            _repository.DeleteComment(commentId);
         }
-
 
     }
 }

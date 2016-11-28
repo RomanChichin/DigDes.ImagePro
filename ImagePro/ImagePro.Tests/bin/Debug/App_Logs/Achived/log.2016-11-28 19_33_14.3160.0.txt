@@ -1,0 +1,90 @@
+2016-11-28 19:01:00.1254|Debug|Operation completed, time: 278 misec
+2016-11-28 19:01:00.1333|Info|Post was added | postID=cb775a47-b254-4593-a01c-668e2b05666c | userID = 264d7b1b-df1f-4611-a1e9-bbc30a91cd80
+2016-11-28 19:01:00.1333|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:00.1333|Debug|Operation completed, time: 2 misec
+2016-11-28 19:01:00.1424|Info|New comment was added | commentID=89a564a9-530f-4c34-9e93-15b8ca02a0e1 | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=91e28c55-07be-4784-95e1-ddd8d0d1faf6
+2016-11-28 19:01:00.1424|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:00.1644|Debug|Operation completed, time: 16 misec
+2016-11-28 19:01:00.1644|Info|New user was added | ID=f1143eb5-0ad6-4ac7-99bf-1b2d24e69849 | Nickname=07a-e2006b382ee1
+2016-11-28 19:01:00.1644|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:00.1834|Debug|Operation completed, time: 15 misec
+2016-11-28 19:01:00.1834|Info|New user was added | ID=864091ae-752a-4a53-9d57-7b0e6270989d | Nickname=413-213226f90777
+2016-11-28 19:01:00.4246|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:01.3222|Debug|Operation completed, time: 895 misec
+2016-11-28 19:01:01.3222|Info|Post was added | postID=efa8e0c0-f45a-433e-ad4b-1c732dbeaa0b | userID = 864091ae-752a-4a53-9d57-7b0e6270989d
+2016-11-28 19:01:01.3292|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:01.3492|Debug|Operation completed, time: 18 misec
+2016-11-28 19:01:01.3492|Info|New comment was added | commentID=44d80720-fc0b-4fe2-a755-b30b5d3e03d6 | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=f1143eb5-0ad6-4ac7-99bf-1b2d24e69849
+2016-11-28 19:01:01.3492|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:01.4113|Debug|Operation completed, time: 59 misec
+2016-11-28 19:01:01.4113|Info|New user was added | ID=29385f49-1684-448a-a35f-03f24081753e | Nickname=8b3-6ec289f2c59d
+2016-11-28 19:01:01.4113|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:01.4113|Debug|Operation completed, time: 2 misec
+2016-11-28 19:01:01.4113|Info|New user was added | ID=4468be5a-3292-4043-8c82-117e0fa1a897 | Nickname=99d-36ffb0b69c76
+2016-11-28 19:01:01.5724|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:01.6704|Debug|Operation completed, time: 96 misec
+2016-11-28 19:01:01.6704|Info|Post was added | postID=4f1e7b1c-8d4c-4746-b0b4-e40804a1ae82 | userID = 4468be5a-3292-4043-8c82-117e0fa1a897
+2016-11-28 19:01:01.6704|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:01.6814|Debug|Operation completed, time: 7 misec
+2016-11-28 19:01:01.6814|Info|New comment was added | commentID=d2dcb468-a3bb-4933-a371-8acc02e5d0a4 | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=29385f49-1684-448a-a35f-03f24081753e
+2016-11-28 19:01:01.6814|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:01.6814|Debug|Operation completed, time: 1 misec
+2016-11-28 19:01:01.6814|Info|New user was added | ID=4fec7219-fe79-4628-8e12-056c1ef4d1f9 | Nickname=b0e-5d048ace58cc
+2016-11-28 19:01:01.6885|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:01.6885|Debug|Operation completed, time: 3 misec
+2016-11-28 19:01:01.6885|Info|New user was added | ID=d5e6d77e-476e-42a9-8b82-7f603363ec19 | Nickname=e15-d114ce9512d5
+2016-11-28 19:01:01.9947|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:02.2909|Debug|Operation completed, time: 295 misec
+2016-11-28 19:01:02.2909|Info|Post was added | postID=93b4cdeb-bead-4297-8b02-6de4b3583b43 | userID = d5e6d77e-476e-42a9-8b82-7f603363ec19
+2016-11-28 19:01:02.2909|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:02.4470|Debug|Operation completed, time: 152 misec
+2016-11-28 19:01:02.4470|Info|New comment was added | commentID=e6234920-800b-4372-8ef2-6d699584a366 | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=4fec7219-fe79-4628-8e12-056c1ef4d1f9
+2016-11-28 19:01:02.4470|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:02.4470|Debug|Operation completed, time: 2 misec
+2016-11-28 19:01:02.4540|Info|New user was added | ID=8045fe33-085c-4438-9699-a277dc5632ec | Nickname=24e-261942f12b6a
+2016-11-28 19:01:02.4540|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:02.4540|Debug|Operation completed, time: 1 misec
+2016-11-28 19:01:02.4540|Info|New user was added | ID=031d6e8d-3539-45f5-a5d4-9d18267b3eb6 | Nickname=dc8-31ed4197fe8b
+2016-11-28 19:01:02.9233|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:03.7759|Debug|Operation completed, time: 848 misec
+2016-11-28 19:01:03.7759|Info|Post was added | postID=be042ed2-8b5a-4ede-b159-ada0799b0d54 | userID = 031d6e8d-3539-45f5-a5d4-9d18267b3eb6
+2016-11-28 19:01:03.7759|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:03.7759|Debug|Operation completed, time: 2 misec
+2016-11-28 19:01:03.7829|Info|New comment was added | commentID=996fef08-5396-45a2-b31f-4b14300fe1fc | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=8045fe33-085c-4438-9699-a277dc5632ec
+2016-11-28 19:01:03.7829|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:03.8880|Debug|Operation completed, time: 1 misec
+2016-11-28 19:01:03.8880|Info|New user was added | ID=266f4559-fec0-4a1a-a8e6-4dbd7b981537 | Nickname=b1e-f42c5c248742
+2016-11-28 19:01:03.8880|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:03.8930|Debug|Operation completed, time: 1 misec
+2016-11-28 19:01:03.8930|Info|New user was added | ID=4ef9b71a-8705-4a8d-bcc7-b15ac630f970 | Nickname=033-8aecfb3ad7ba
+2016-11-28 19:01:04.1632|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:04.3894|Debug|Operation completed, time: 224 misec
+2016-11-28 19:01:04.3894|Info|Post was added | postID=039f84d2-933d-4638-a619-d23c06973592 | userID = 4ef9b71a-8705-4a8d-bcc7-b15ac630f970
+2016-11-28 19:01:04.3894|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:04.4795|Debug|Operation completed, time: 87 misec
+2016-11-28 19:01:04.4795|Info|New comment was added | commentID=a74954f2-740f-4669-b2ea-5e7f0be85d3e | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=266f4559-fec0-4a1a-a8e6-4dbd7b981537
+2016-11-28 19:01:04.4795|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:04.6036|Debug|Operation completed, time: 121 misec
+2016-11-28 19:01:04.6036|Info|New user was added | ID=8d0168a8-3c39-4b74-bb0e-3ac0791eff44 | Nickname=11e-23b2b0b45ebd
+2016-11-28 19:01:04.6036|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:04.6756|Debug|Operation completed, time: 67 misec
+2016-11-28 19:01:04.6756|Info|New user was added | ID=207fe8df-8c2c-4322-bfd1-b82850795d99 | Nickname=e3e-0acc3677d730
+2016-11-28 19:01:04.9057|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:05.1639|Debug|Operation completed, time: 254 misec
+2016-11-28 19:01:05.1639|Info|Post was added | postID=4dcf42d5-2334-4861-9180-666b8f1fc0bd | userID = 207fe8df-8c2c-4322-bfd1-b82850795d99
+2016-11-28 19:01:05.1639|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:05.2610|Debug|Operation completed, time: 94 misec
+2016-11-28 19:01:05.2610|Info|New comment was added | commentID=8ee33a9b-9ad3-4cfd-8ceb-e338903b3f2e | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=8d0168a8-3c39-4b74-bb0e-3ac0791eff44
+2016-11-28 19:01:05.2610|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:05.2610|Debug|Operation completed, time: 1 misec
+2016-11-28 19:01:05.2670|Info|New user was added | ID=ab68625f-3609-4c4b-81af-97eddd307063 | Nickname=d01-9edbcd20c37c
+2016-11-28 19:01:05.2670|Debug|Recieved a request to ADD new user
+2016-11-28 19:01:05.2670|Debug|Operation completed, time: 1 misec
+2016-11-28 19:01:05.2670|Info|New user was added | ID=c6982d30-4929-4396-8725-415e33aeb67c | Nickname=322-fa627b272d45
+2016-11-28 19:01:05.7043|Debug|Recieved a request to ADD new post
+2016-11-28 19:01:06.6640|Debug|Operation completed, time: 958 misec
+2016-11-28 19:01:06.6640|Info|Post was added | postID=3f3f8a23-5073-4394-b886-815fe0ad2c41 | userID = c6982d30-4929-4396-8725-415e33aeb67c
+2016-11-28 19:01:06.6640|Debug|Recieved a request to ADD new comment
+2016-11-28 19:01:06.8061|Debug|Operation completed, time: 133 misec
+2016-11-28 19:01:06.8061|Info|New comment was added | commentID=838d432d-3f36-4687-bb14-a6fe0a94ad9a | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=ab68625f-3609-4c4b-81af-97eddd307063
+2016-11-28 19:01:06.8151|Debug|Recieved a request to GET COMMENTS from post with ID=85ae95b9-70b4-4616-ad5c-290780f4b4bf

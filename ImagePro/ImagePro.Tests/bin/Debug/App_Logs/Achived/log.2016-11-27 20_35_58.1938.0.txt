@@ -1,0 +1,6 @@
+2016-11-27 20:31:49.8663|Debug|Recieved a request to ADD new user
+2016-11-27 20:31:51.1142|Debug|Operation completed, time: 841 misec
+2016-11-27 20:31:51.1142|Info|New user was added | ID=426fa77e-94c7-4481-9fd2-9e420cee908c | Nickname=383-31b1e14cf036
+2016-11-27 20:31:51.1322|Debug|Recieved a request to GET user with ID=426fa77e-94c7-4481-9fd2-9e420cee908c
+2016-11-27 20:31:51.4315|Debug|Operation completed, time: 297 misec
+2016-11-27 20:31:51.4315|Info|Information about user sent | userID=426fa77e-94c7-4481-9fd2-9e420cee908c

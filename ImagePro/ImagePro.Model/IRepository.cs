@@ -1,24 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ImagePro.Model
 {
     public interface IRepository
     {
-        User AddUser(User user);
-        User GetUser(Guid userId);
+        //Users Methods
+        User AddNewUser(User user);
+        User GetUserById(Guid userId);
         void DeleteUser(Guid userId);
+        void PressAndRemoveLikeToPost(Guid userId, Guid postId);
+        void EditUserInformation(User user);
+        void SubscribeToUser(Guid subscriberId, Guid publisherId);
+        void UnSubscribeFromUser(Guid subscriberId, Guid publisherId);
+        IEnumerable<User> GetAllSubscribers(Guid publisherId);
 
-        Post AddPost(Post post);
-        Post GetPost(Guid postId);
+            //Posts Methods
+        Post AddNewPost(Post post);
+        Post GetPostById(Guid postId);
         void DeletePost(Guid postId);
+        IEnumerable<Comment> GetPostComments(Guid postId, int commentsNumber = 10);   //можно ли в интерфейсе делать опциональный параметр?
+        IEnumerable<string> GetPostHashTags(Guid postId);
+        void AddHashTagToPost(Guid postId, string hashTagText);
 
-        IEnumerable<Comment> GetAllComments(Guid postID);
-        Comment GetComment(Guid commentID);
-        Comment AddComment(Comment comment);
+        //Comments Methods
+        Comment GetCommentById(Guid commentId);
+        Comment AddNewComment(Comment comment);
         void DeleteComment(Guid commentId);
+        void EditComment(Comment comment);
+
     }
 }

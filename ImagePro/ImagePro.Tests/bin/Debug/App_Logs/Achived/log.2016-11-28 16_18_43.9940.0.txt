@@ -1,0 +1,9 @@
+2016-11-28 16:16:05.4933|Debug|Recieved a request to ADD new user
+2016-11-28 16:16:06.2979|Debug|Operation completed, time: 559 misec
+2016-11-28 16:16:06.2979|Info|New user was added | ID=052da7b4-8533-4c82-80a2-18b1999196f4 | Nickname=925-869c3b7d611f
+2016-11-28 16:16:06.6231|Debug|Recieved a request to ADD new post
+2016-11-28 16:16:07.2025|Debug|Operation completed, time: 578 misec
+2016-11-28 16:16:07.2025|Info|Post was added | postID=246da77d-0a4b-4c5e-b336-286b696e68ba | userID = 052da7b4-8533-4c82-80a2-18b1999196f4
+2016-11-28 16:16:07.2145|Debug|Recieved a request to GET post with ID=246da77d-0a4b-4c5e-b336-286b696e68ba
+2016-11-28 16:16:07.6639|Debug|Operation completed, time: 446 misec
+2016-11-28 16:16:07.6639|Info|Information about post sent | postID=246da77d-0a4b-4c5e-b336-286b696e68ba

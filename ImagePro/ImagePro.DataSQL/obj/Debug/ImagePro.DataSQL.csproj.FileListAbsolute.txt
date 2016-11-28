@@ -5,3 +5,7 @@ D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\obj\Debug\ImagePro
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\obj\Debug\ImagePro.DataSQL.pdb
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.Model.dll
 D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.Model.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\NLog.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\NLog.xml
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.Exeptions.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.DataSQL\bin\Debug\ImagePro.Exeptions.pdb

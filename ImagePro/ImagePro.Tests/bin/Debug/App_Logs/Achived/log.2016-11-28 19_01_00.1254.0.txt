@@ -1,0 +1,25 @@
+2016-11-28 19:00:57.1963|Debug|Recieved a request to ADD new user
+2016-11-28 19:00:58.0319|Debug|Operation completed, time: 567 misec
+2016-11-28 19:00:58.0379|Info|New user was added | ID=c194ccd4-1be8-42b5-bb40-a9ac21bd6968 | Nickname=727-51fa3fa26f83
+2016-11-28 19:00:58.3501|Debug|Recieved a request to ADD new post
+2016-11-28 19:00:59.1607|Debug|Operation completed, time: 809 misec
+2016-11-28 19:00:59.1607|Info|Post was added | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID = c194ccd4-1be8-42b5-bb40-a9ac21bd6968
+2016-11-28 19:00:59.1607|Debug|Recieved a request to ADD new user
+2016-11-28 19:00:59.1817|Debug|Operation completed, time: 14 misec
+2016-11-28 19:00:59.1817|Info|New user was added | ID=f68b934e-fbe1-48df-989e-a8af84f31a8e | Nickname=452-ae1f38f5d35d
+2016-11-28 19:00:59.1817|Debug|Recieved a request to ADD new user
+2016-11-28 19:00:59.2467|Debug|Operation completed, time: 61 misec
+2016-11-28 19:00:59.2467|Info|New user was added | ID=9fd75fb2-046e-436b-baf3-99530806866f | Nickname=467-736510545b71
+2016-11-28 19:00:59.4208|Debug|Recieved a request to ADD new post
+2016-11-28 19:00:59.5159|Debug|Operation completed, time: 93 misec
+2016-11-28 19:00:59.5169|Info|Post was added | postID=248803ca-7f29-4d97-9120-2a66317aed2f | userID = 9fd75fb2-046e-436b-baf3-99530806866f
+2016-11-28 19:00:59.5169|Debug|Recieved a request to ADD new comment
+2016-11-28 19:00:59.5359|Debug|Operation completed, time: 5 misec
+2016-11-28 19:00:59.5359|Info|New comment was added | commentID=b9533633-d009-4282-bac9-a49cf0505626 | postID=85ae95b9-70b4-4616-ad5c-290780f4b4bf | userID=f68b934e-fbe1-48df-989e-a8af84f31a8e
+2016-11-28 19:00:59.5359|Debug|Recieved a request to ADD new user
+2016-11-28 19:00:59.5359|Debug|Operation completed, time: 1 misec
+2016-11-28 19:00:59.5359|Info|New user was added | ID=91e28c55-07be-4784-95e1-ddd8d0d1faf6 | Nickname=21a-f3d9a81ef1d2
+2016-11-28 19:00:59.5359|Debug|Recieved a request to ADD new user
+2016-11-28 19:00:59.5359|Debug|Operation completed, time: 1 misec
+2016-11-28 19:00:59.5479|Info|New user was added | ID=264d7b1b-df1f-4611-a1e9-bbc30a91cd80 | Nickname=648-08867a93d9ae
+2016-11-28 19:00:59.8461|Debug|Recieved a request to ADD new post

@@ -1,0 +1,5 @@
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Exeptions\bin\Debug\ImagePro.Exeptions.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Exeptions\bin\Debug\ImagePro.Exeptions.pdb
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Exeptions\obj\Debug\ImagePro.Exeptions.csprojResolveAssemblyReference.cache
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Exeptions\obj\Debug\ImagePro.Exeptions.dll
+D:\ROMA\DIGDES\Homework\ImagePro1.1\ImagePro\ImagePro.Exeptions\obj\Debug\ImagePro.Exeptions.pdb

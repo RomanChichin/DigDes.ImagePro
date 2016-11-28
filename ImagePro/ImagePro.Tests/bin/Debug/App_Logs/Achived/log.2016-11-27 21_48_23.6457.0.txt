@@ -1,0 +1,9 @@
+2016-11-27 21:47:29.0840|Debug|Recieved a request to ADD new user
+2016-11-27 21:47:30.2158|Debug|Operation completed, time: 809 misec
+2016-11-27 21:47:30.2198|Info|New user was added | ID=fe4ef38f-87a3-49ee-8a84-0fe6d89de9cf | Nickname=d22-c86add47bb0b
+2016-11-27 21:47:30.2198|Debug|Recieved a request to EDIT user information with ID=fe4ef38f-87a3-49ee-8a84-0fe6d89de9cf
+2016-11-27 21:47:30.4740|Debug|Operation completed, time: 242 misec
+2016-11-27 21:47:30.4740|Info|User information was updated | userID=fe4ef38f-87a3-49ee-8a84-0fe6d89de9cf
+2016-11-27 21:47:30.4740|Debug|Recieved a request to GET user with ID=fe4ef38f-87a3-49ee-8a84-0fe6d89de9cf
+2016-11-27 21:47:30.6020|Debug|Operation completed, time: 116 misec
+2016-11-27 21:47:30.6020|Info|Information about user sent | userID=fe4ef38f-87a3-49ee-8a84-0fe6d89de9cf

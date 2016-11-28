@@ -1,92 +1,78 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Web.Http;
 using ImagePro.Model;
 using ImagePro.DataSQL;
-using System.Net;
+using ImagePro.Filters;
+using NLog;
 
 namespace ImagePro.Controllers
 {
     public class UsersController : ApiController
     {
-        //public User GetUser()
-        //{
-        //    return new User()
-        //    {
-        //      Nickname = "Nik",
-        //      UserId = Guid.NewGuid(),
-        //      RegistrationDate = DateTime.Now
-        //    };
-        //}
-
-        //public User GetUser(int id)
-        //{
-        //    return new User()
-        //    {
-        //        Nickname = "NikID",
-        //        UserId = Guid.NewGuid(),
-        //        RegistrationDate = DateTime.Now
-
-        //    };
-        //}
-
-        //        private const string _connectionString = @"Data Source=(local)\SQLEXPRESS;
-        //                                                   Initial Catalog=DB;
-        //                                                   Integrated Security=True";
-
-        //        private readonly IRepository _repository;
-
-        //        public UsersController()
-        //        {
-        //            _repository = new ImagePro.DataSQL.Repository(_connectionString);
-        //        }
-
         static readonly IRepository _repository = new Repository(@"Data Source=(local)\SQLEXPRESS;
                                                                  Initial Catalog=DB;
                                                                  Integrated Security=True");
+        
 
         [HttpGet]
+        //  [Route("api/Users/{id}")]
+        [ErrorHandler]
         public User GetUser(Guid userID)
         {
+            return _repository.GetUserById(userID);
+        }
 
-            if (userID == null) //для чего тогда вообще эта проверка?
-            {
-                throw new HttpResponseException(HttpStatusCode.NotFound);
-            }
-            else
-            {
-                try
-                {
-                    return _repository.GetUser(userID);
-                }
-                catch
-                {
-                    throw new HttpResponseException(HttpStatusCode.NotFound); //почему ничего не выскакивает?
-                }
-            }
-
-
+        [HttpGet]
+        // [Route("api/Users/subscribers/{id}")]
+        public IEnumerable<User> GetUserSubscribers(Guid userId)
+        {
+            return _repository.GetAllSubscribers(userId);
         }
 
         [HttpPost]
-        public User AddUser(User user)
+        // [Route("api/Users/user")]
+        public User CreateUser(User user)
         {
-            try
-            {
-                return _repository.AddUser(user);
-            }
-            catch
-            {
-              //что тут можно бросить?
-                throw new NotImplementedException();
-            }
+            return _repository.AddNewUser(user);
+        }
 
+        [HttpPost]
+        // [Route("api/Users/sub/{sid}/{pid}")]
+        public void Subscribe(Guid subscriberId, Guid publisherId)
+        {
+            _repository.SubscribeToUser(subscriberId, publisherId);
         }
 
         [HttpDelete]
+        // [Route("api/Users/unsub/{sid}/{pid}")]
+        public void Unsubscribe(Guid subscriberId, Guid publisherId)
+        {
+            _repository.UnSubscribeFromUser(subscriberId, publisherId);
+        }
+
+        [HttpDelete]
+        //  [Route("api/Users/{id}")]
         public void DeleteUser(Guid userID)
         {
             _repository.DeleteUser(userID);
         }
+
+        [HttpPut]
+        //  [Route("api/Users/user")]
+        public void EditUser(User user)
+        {
+            _repository.EditUserInformation(user);
+        }
+
+
+
+
+
+
+
+
+
 
     }
 }
